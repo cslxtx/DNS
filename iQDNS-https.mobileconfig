@@ -19,7 +19,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use iQDNS 公益加密DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>imagedata QDNS DNS over HTTPS</string>
+			<string>QDNS DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.dnspod.dnsSettings.managed</string>
 			<key>PayloadType</key>
